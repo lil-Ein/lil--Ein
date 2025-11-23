@@ -1,14 +1,14 @@
-![Preview](./images/bg.webp)
+![Preview](./images/tumblr_poa01tBXY01wprb1z_1280.jpg)
 
-<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/738748102311280681?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
+<a href="https://discord.gg/lil._.taha"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/738748102311280681?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
 
 
 ### Hi!👋 I'm Ein🍙
 
-*SUPER UNEMPLOYED OHIO FINAL BOSS*
+*SUPER UNEMPLOYED AHH PERSON*
 
 ## **☕ About me**
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="140" src="./images/marin_kya.webp"></a>
+<a href="https://github.com/lil-Ein"><img align="left" lenght= "150" width="250" src="./images/D108nImX0AAABA5.jpg"></a>
 - Name: **Ein** 
 - Residing in: **Pakistan**
 - Hobbies: **Learning, Anime, Grinding**
@@ -17,7 +17,7 @@
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="120" src="./images/marin_sad.webp"></a>
+<a href="https://github.com/MiyagawaMizu"><img align="right" width="200" src="./images/72zo4fatd1vb1.png"></a>
 - I'm Ein and im pursuing my studies to become a Data Scientist
 - Useless, lazy, and literally no survival skills in this society.
 - I have a passion for anime which gives me Motivation to Grind every day.
@@ -46,7 +46,7 @@ Hehe~ another cutie has been caught.
 ``` -->
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/lil-Ein"><img align="right" width="120" src="./images/marin_smug.webp" /></a>
+<a href="https://github.com/lil-Ein"><img align="right" width="120" src="./images/9a451574ee3e2fdb8dc5a16a82d27b21.jpg" /></a>
 **Please Contact me on Discord for a quick response:** [lil-Ein](https://discord.com/users/lil._.taha)
 
 
