@@ -8,9 +8,9 @@
 *SUPER UNEMPLOYED AHH PERSON*
 
 ## **☕ About me**
-<a href="https://github.com/lil-Ein"><img align="left" lenght= "150" width="240" src="./images/D108nImX0AAABA5.jpg"></a>
+<a href="https://github.com/lil-Ein"><img align="left" lenght= "150" width="243" src="./images/D108nImX0AAABA5.jpg"></a>
 - Name: **Ein** 
-- Residing in: **Pakistan**
+- From: **Pakistan**
 - Hobbies: **Learning, Anime, Grinding**
 - Work: **UNEMPLOYED**
 - Language: **English**
