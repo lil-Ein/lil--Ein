@@ -9,22 +9,22 @@
 
 ## **☕ About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="140" src="./images/marin_kya.webp"></a>
-- Name: **Mizu** 
-- Residing in: **Vietnam**
-- Hobbies: **Cosplay, Playing Games, Driving with Sportbike**
+- Name: **Ein** 
+- Residing in: **Pakistan**
+- Hobbies: **Learning, Anime, Grinding**
 - Work: **UNEMPLOYED**
-- Language: **Vietnamese, English**
+- Language: **English**
 <br><br>
 
 ## **💻 Experience**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="120" src="./images/marin_sad.webp"></a>
-- Useless, lazy, unmotivated, and literally no survival skills in this society.
-- As a Hikikomori and NEET, I enjoy gaming, watching anime, reading manga, cosplaying, listening to music, and occasionally experimenting with tech stuff, especially gaming gear.
-- I have a passion for anime, and I love to cosplay as my favorite characters.
+- I'm Ein and im pursuing my studies to become a Data Scientist
+- Useless, lazy, and literally no survival skills in this society.
+- I have a passion for anime which gives me Motivation to Grind every day.
 
 ## **📊 Github Stats**
 <!-- <div><a href="https://github.com/MiyagawaMizu"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=lil-Ein&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-Ein&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
 <!-- ## **🎧 Music**
@@ -54,8 +54,6 @@ Hehe~ another cutie has been caught.
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu">
 [![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/MiyagawaMizu)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/)
-[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/MiyagawaMizu)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:mizuneenee@gmail.com)
 <!-- [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/miyagawamizu) -->
 <!-- [![](https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white)](https://ko-fi.com/miyagawamizu) -->
 <!-- [![MiyagawaMizu](https://mizu.is-a.dev/public/miyagawamizu.png)](https://mizu.is-a.dev/) -->
